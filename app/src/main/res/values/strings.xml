@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">LoginModule</string>
+    <string name="full_name">Full name</string>
+    <string name="enter_email">Enter your email</string>
+    <string name="password">Password</string>
+    <string name="valid_email">Valid email</string>
+    <string name="phone_number">Phone number</string>
+    <string name="re_enter_password">Repeated Password</string>
+    <string name="welcome">Welcome To Home</string>
+    <string name="welcome_profile">Welcome To Profile</string>
+    <string name="welcome_logout">Welcome To Logout</string>
+    <string name="on_boarding_title_one">Explore the\nworld easily</string>
+    <string name="on_boarding_title_two">Reach the\nunknown spot</string>
+    <string name="on_boarding_title_three">Make connects\nwith explora</string>
+    <string name="on_boarding_sub_title_one">To your desire</string>
+    <string name="on_boarding_sub_title_two">To your destination</string>
+    <string name="on_boarding_sub_title_three">To your dream trip</string>
+    <string name="welcome_desc">Currently The Next Part of Home Activity &amp; Fragementation is under development. The upcoming Part 2 is coming Soon........</string>
+    <string name="email_cant_blank">The email can\'t be blank</string>
+    <string name="email_not_valid">Email are not valid</string>
+    <string name="password_length_error">The password needs at least 8 characters</string>
+    <string name="password_not_valid">The password needs contain one letter or digit</string>
+    <string name="terms_not_valid">Please accept the terms</string>
+    <string name="re_type_not_valid">The password don\'t match</string>
+    <string name="bio_dialog_negative">Cancel</string>
+    <string name="log_me_out">Logout</string>
+    <string name="biometric">Biometric Verification</string>
+    <string name="biometric_desc">Use biometric to open</string>
+    <string name="re_auth_page">This are Dummy Page</string>
+    </resources>
